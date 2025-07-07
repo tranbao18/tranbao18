@@ -53,6 +53,11 @@
         </a>
       </p>
       <p dir="auto">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="40" height="40"/>
+        </a>
+      </p>
+      <p dir="auto">
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d21012299f2ccd4a7d73b13f896b0be91c9e71bb7f0b51f1cbfb783ed6b9f9b1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6f64656a732f6e6f64656a732d6f726967696e616c2e737667">
           <img align="left" alt="Node.js" width="26px" src="https://camo.githubusercontent.com/d21012299f2ccd4a7d73b13f896b0be91c9e71bb7f0b51f1cbfb783ed6b9f9b1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6f64656a732f6e6f64656a732d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="max-width: 100%;">
         </a>
@@ -88,11 +93,8 @@
         </a>
       </div>
       <p dir="auto">
-        <a href="https://github.com/namnguyen-dev">
+        <a href="https://github.com/tranbao18">
           <img alt="Github" src="https://camo.githubusercontent.com/9c137a831035de366198774c3260403fa2415d06ad2153a30098022f2c4249a9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d2532333132313030452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d476974687562266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/GitHub-%2312100E.svg?&amp;style=for-the-badge&amp;logo=Github&amp;logoColor=white" style="max-width: 100%;">
-        </a>
-        <a href="https://twitter.com/NamNguyen_Dev" rel="nofollow">
-          <img alt="Twitter" src="https://camo.githubusercontent.com/be5256cc9aa95d05f7221a604f4ec52c984eba47ae25ba084b532eddbb96a390/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747769747465722d2532333144413146322e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white" style="max-width: 100%;">
         </a>
       </p>
       <br>
@@ -108,11 +110,6 @@
       <a href="https://github.com/namnguyen-dev">
         <img align="center" src="https://camo.githubusercontent.com/54d3650fc49b5a3760529c32c5f0f12d29276a05bdc3fec346a17f429d528b35/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6e616d6e677579656e2d6465762673686f775f69636f6e733d74727565267468656d653d7261646963616c" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=namnguyen-dev&amp;show_icons=true&amp;theme=radical" style="max-width: 100%;">
       </a>
-      <p dir="auto">
-        <a href="https://github.com/namnguyen-dev/github-readme-stats">
-          <img src="https://camo.githubusercontent.com/7720bfdf257ea6821a3caf8b4e8cfa6e85bade260e230205cfe6135f73472106/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6e616d6e677579656e2d646576267468656d653d7261646963616c" alt="Nam's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=namnguyen-dev&amp;theme=radical" style="max-width: 100%;">
-        </a>
-      </p>
     </article>
   </div>
 </div>
